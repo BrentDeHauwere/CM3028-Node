@@ -1,0 +1,7 @@
+{
+	"name": "CM3028-Node",
+	"version": "1.0.0",
+	"dependencies": {
+		"mongodb": "*"
+	}
+}
